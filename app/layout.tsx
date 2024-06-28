@@ -10,7 +10,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head><title>Practice Next.js</title></head>
       <body>
         <header
         style={{backgroundColor:'lightblue',
