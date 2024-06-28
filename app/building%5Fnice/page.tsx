@@ -2,7 +2,9 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Welcome to homepage</div>
+    <div>
+        List of building used
+    </div>
   )
 }
 
