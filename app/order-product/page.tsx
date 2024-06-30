@@ -5,10 +5,10 @@ export default function page() {
 
     const handleClick=()=>{
         console.log("Placing Order...");
-        //router.replace("/");//removes browser history stack
+        router.replace("/");//removes browser history stack
         //router.push("/");//add a new to browser history stack
         //router.back();//navigates to previous page on history stack
-        router.forward();
+        //router.forward();//navigate to front page in history stack
     }
     return (
     <>
